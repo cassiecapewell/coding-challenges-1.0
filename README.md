@@ -1,6 +1,6 @@
-# 👩‍💻 Daily Coding Challenges
+# 👩‍💻 Daily Coding Challenges 1.0 (aka: old)
 
-This repository is a collection of my daily coding challenge solutions.
+This repository is a collection of my daily coding challenge solutions, from February to April 2021.
 
 ### 🧐 Why?
 
